@@ -1,0 +1,22 @@
+/**
+ * @Author: Sam958
+ * @Date:   2018-02-07T14:35:23+08:00
+ * @Last modified by:   Sam958
+ * @Last modified time: 2018-02-07T14:38:42+08:00
+ */
+ .footer {
+   padding-bottom: 10px;
+ }
+.footer .links {
+  text-align: center;
+  color: #666;
+  line-height: 30px;
+}
+.footer .links .link {
+  padding: 0 10px;
+}
+.footer .copyright {
+  text-align: center;
+  color: #666;
+  line-height: 30px;
+}
