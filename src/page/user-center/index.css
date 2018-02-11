@@ -1,0 +1,16 @@
+/**
+ * @Author: Sam958
+ * @Date:   2018-02-10T09:44:22+08:00
+ * @Last modified by:   Sam958
+ * @Last modified time: 2018-02-10T16:49:08+08:00
+ */
+.form-line {
+  height: 30px;
+  line-height: 30px;
+  font-size: 14px;
+}
+.form-line .label {
+  display: inline-block;
+  width: 60px;
+  text-align: center;
+}

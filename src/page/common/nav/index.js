@@ -2,7 +2,7 @@
  * @Author: Sam958
  * @Date:   2018-02-07T11:43:22+08:00
  * @Last modified by:   Sam958
- * @Last modified time: 2018-02-07T14:26:29+08:00
+ * @Last modified time: 2018-02-09T15:08:37+08:00
  */
 'use strict';
 require('./index.css');
@@ -24,7 +24,7 @@ var nav = {
     });
     // 注册点击事件
     $('.js-register').click(function(){
-      window.location.href = './register.html';
+      window.location.href = './user-register.html';
     });
     // 退出点击事件
     $('.js-logout').click(function(){

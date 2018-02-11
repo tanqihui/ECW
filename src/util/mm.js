@@ -1,8 +1,8 @@
 /**
  * @Author: Sam958
  * @Date:   2018-02-02T11:08:04+08:00
- * @Last modified by:
- * @Last modified time: 2018-02-02T15:45:31+08:00
+ * @Last modified by:   Sam958
+ * @Last modified time: 2018-02-09T15:18:56+08:00
  */
 
 'use strict';
@@ -80,7 +80,7 @@ var _mm = {
   },
   //统一登录处理
   doLogin: function(){
-    window.location.href = './login.html?redirect=' + encodeURIComponent(window.location.href);
+    window.location.href = './user-login.html?redirect=' + encodeURIComponent(window.location.href);
   },
   goHome: function(){
     window.location.href = './index.html';

@@ -2,7 +2,7 @@
  * @Author: Sam958
  * @Date:   2018-02-02T15:51:23+08:00
  * @Last modified by:   Sam958
- * @Last modified time: 2018-02-02T16:56:04+08:00
+ * @Last modified time: 2018-02-10T16:45:06+08:00
  */
 /* css reset */
 * {
@@ -32,6 +32,24 @@ input[type='checkbox'] {
   width: 1080px;
   margin: 0 auto;
   position: relative;
+  overflow: hidden;
+}
+
+/* 个人中心 panel */
+.panel {
+  padding: 10px;
+  margin-bottom: 10px;
+  background: #fff;
+}
+.panel .panel-title {
+  padding: 10px;
+  font-size: 14px;
+  color: #666;
+  font-weight: bold;
+  border-bottom: 1px solid #eee;
+}
+.panel .panel-body {
+  padding: 10px;
   overflow: hidden;
 }
 
